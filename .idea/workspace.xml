@@ -43,6 +43,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -117,12 +118,12 @@
       <workItem from="1552486881110" duration="592000" />
       <workItem from="1552504264248" duration="8664000" />
       <workItem from="1552513296644" duration="5290000" />
-      <workItem from="1553087296527" duration="890000" />
+      <workItem from="1553087296527" duration="2387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30218000" />
+    <option name="totallyTimeSpent" value="31715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
